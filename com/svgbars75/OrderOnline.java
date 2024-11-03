@@ -22,8 +22,10 @@ public class OrderOnline {
         System.out.println("Product: " + product + ",");
         System.out.println("price EUR " + price + ".");
         System.out.println("Address: Terra Street, " + address + ".");
-
+        System.out.println(" ");
         System.out.println("Shop-online for order");
+        System.out.println(" ");
+        System.out.println("shop-online for customers");
 
     }
 }
